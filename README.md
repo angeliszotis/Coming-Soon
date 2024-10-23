@@ -1,21 +1,20 @@
-# Website - Coming Soon Page
+# Website - Coming Soon Page 🚀
 
 This repository contains a "Coming Soon" landing page. The page displays a simple animated background of bouncing spheres using the Three.js library, along with a message indicating the website's upcoming launch.
 
-## Features
+## ✨ Features
+- 🎨 **Responsive Design** - Looks great on any device.
+- 🔄 **Animated Background** with bouncing spheres using Three.js.
+- 🌈 **Smooth Gradient Background** - A seamless color transition from black to gray.
+- 🖼️ **Text with Shadows** - Clean, modern typography with subtle shadow effects.
 
-- **Responsive Design**: The page adjusts its layout to fit different screen sizes.
-- **Three.js Animation**: The background features 3D animated spheres bouncing around.
-- **Simple and Clean UI**: Minimalistic "Coming Soon" text with a clear call-to-action.
+## 🛠️ Technologies Used
+- **HTML5** 📄: For structuring the page.
+- **CSS3** 🎨: For styling and layout.
+- **JavaScript** ✨: For adding logic and animation.
+- **Three.js** 🛠️: 3D rendering for the interactive background.
 
-## Technologies Used
-
-- **HTML5**: Provides the basic structure of the page.
-- **CSS3**: Used for the layout, typography, and visual effects.
-- **JavaScript**: Manages the 3D animation and responsive behavior.
-- **Three.js**: A lightweight 3D library for rendering animated objects in the background.
-
-## How to Use
+## 🚀 Usage
 
 1. Clone the repository:
    ```bash
